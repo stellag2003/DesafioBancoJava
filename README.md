@@ -32,13 +32,12 @@ Execute o arquivo principal (Main.java, por exemplo).
 ![image](https://github.com/user-attachments/assets/225086a6-8bae-49ae-b4e1-a88dc3615515)
 
 
-##📌 Tecnologias utilizadas
+## 📌 Tecnologias utilizadas
 ![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=java)
-)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellij-idea)
 
 
-🛠️ Objetivo educacional
+## 🛠️ Objetivo educacional
 Este projeto foi feito com fins educativos, para treinar lógica de programação e controle de fluxo em Java. Futuramente poderá ser expandido para incluir cadastro de usuários, autenticação, histórico de transações e muito mais!
 

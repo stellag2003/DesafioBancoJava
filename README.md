@@ -15,10 +15,10 @@ Este projeto é um **simulador simples de banco**, desenvolvido em Java, com o o
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/stellag2003/DesafioBancoJava.git
 Abra o projeto no IntelliJ (ou em outra IDE Java de sua preferência).
 
-Execute o arquivo principal (Main.java, por exemplo).
+Execute o arquivo principal (Desafio.java).
 
 ## 🖼️ Imagens do projeto
 ![Captura de tela 2025-04-04 110804](https://github.com/user-attachments/assets/dcfdb74a-1109-4be2-ad11-322fe307c233)
